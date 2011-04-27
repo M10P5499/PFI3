@@ -28,7 +28,7 @@ public class txtsubs extends Activity implements OnClickListener {
 
 	@Override
 	public void onClick (View v) {
-		// TODO Auto-generated method stub
+		
 		EditText text = (EditText) findViewById(R.id.editText1);
 		
 		EditText text1 = (EditText) findViewById(R.id.editText2);
